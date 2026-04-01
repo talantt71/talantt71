@@ -3,7 +3,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="4" alt="visualstudio logo"  />
 </div>
 
 ## 📞 My Contacts :
