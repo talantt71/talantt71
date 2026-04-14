@@ -1,5 +1,15 @@
-## 👋Hi! My name is Talant
-### Student of the Polar State University 🇷🇺
+## Hi, I'm Talant! 🚀
+
+I'm a student at **Polar State University** (ZSU). I'm passionate about coding and constantly expanding my technical stack.
+
+### 👨‍💻 Tech Stack I'm Working On:
+![My Skills](https://skillicons.dev) 
+*(замени названия языков выше на свои, например: python, cpp, js, java, csharp)*
+
+### 🎓 Education
+- **University:** Polar State University
+- **Focus:** Computer Science / Software Engineering
+
 
 # 💻 Tech Stack:
 <div align="center">
