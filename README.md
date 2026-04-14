@@ -11,6 +11,7 @@ I am a student at **Polar State University**. Currently, I'm honing my skills in
   <img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" height="40" alt="visualstudio logo"  />
    <img width="12" />
 </p>
+
 ## 📞 Contact Me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/talentt71)
