@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://i.pinimg.com/1200x/50/f8/94/50f89408e9f50f310d819b36d906b183.jpg" height="360" alt="c++ logo"  />
-  <img width="12" />
 </p>
 
 #
