@@ -20,7 +20,7 @@
    <img width="12" />
 </p>
 
-## 📞 Contact Me:
+## 📞My Contact:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/talentt71)
 
