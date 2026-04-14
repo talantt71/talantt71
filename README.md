@@ -6,7 +6,7 @@
 
 # Never admit defeat. If you retreat, you will age. If you waver, you will die. <picture><source srcset="https://i.pinimg.com/736x/df/61/2d/df612df8f47ac6162dc99ab66706f2f1.jpg" type="image/webp"> <img src="https://i.pinimg.com/736x/df/61/2d/df612df8f47ac6162dc99ab66706f2f1.jpg" alt="!!" width="48" height="48"> </picture>
 
-Hello! My name is Talant and i'm a student at **Polar State University**. Currently, I'm honing my skills in software development and exploring the world of programming.
+<div align=center> Hello! My name is Talant and i'm a student at **Polar State University**. Currently, I'm honing my skills in software development and exploring the world of programming. </div>
 
 ## What I'm learning and what I'm applying:
 <p align="left">
