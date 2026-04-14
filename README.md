@@ -1,5 +1,5 @@
   <div align="center">
-<img src="https://i.pinimg.com/1200x/50/f8/94/50f89408e9f50f310d819b36d906b183.jpg" height="360" alt="c++ logo"  />
+<img src="https://i.pinimg.com/1200x/9d/44/d3/9d44d384a5c7a852aa8a2d712eb5ec7f.jpg" height="360" alt="c++ logo"  />
 </div>
 
 ## Ichigo, what is the difference between a king and his horse?
