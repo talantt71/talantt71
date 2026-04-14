@@ -4,7 +4,7 @@
 
 #
 
-## Hi, I'm Talant! ☕
+## Hi, I'm Talant! <picture><source srcset="https://i.pinimg.com/1200x/b7/dd/9f/b7dd9f0cb6ab6effef9c6d494befcfa7.jpg" type="image/webp"> <img src="https://i.pinimg.com/1200x/b7/dd/9f/b7dd9f0cb6ab6effef9c6d494befcfa7.jpg" alt="!!" width="48" height="48"> </picture>
 
 I am a student at **Polar State University**. Currently, I'm honing my skills in software development and exploring the world of programming.
 
