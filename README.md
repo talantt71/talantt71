@@ -22,5 +22,5 @@
 
 ## 📞My Contact:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/talentt71)
+[![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/talentt71)
 
