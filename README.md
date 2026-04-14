@@ -9,7 +9,7 @@
 <div align=center> Hello! My name is Talant and i'm a student at Polar State University. Currently, I'm honing my skills in software development and exploring the world of programming. </div>
 
 ## What I'm learning and what I'm applying:
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" height="160" alt="c++ logo"  />
    <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000"  height="160" alt="c# logo"/>
@@ -21,6 +21,6 @@
 </p>
 
 ## 📞My Contact:
+<div align=center> [![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/talentt71) </div>
 
-[![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/talentt71)
 
