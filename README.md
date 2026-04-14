@@ -1,3 +1,6 @@
+<img src="[https://img.icons8.com/?size=100&id=40669&format=png&color=000000](https://i.pinimg.com/1200x/50/f8/94/50f89408e9f50f310d819b36d906b183.jpg)" height="40" alt="c++ logo"  />
+№
+
 ## Hi, I'm Talant! ☕
 
 I am a student at **Polar State University**. Currently, I'm honing my skills in software development and exploring the world of programming.
