@@ -21,8 +21,7 @@
 </p>
 
 ## 📞My Contact:
-<p align=center> 
-  [![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/talentt71)]
-</p>
+[![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/talentt71)]
+
 
 
